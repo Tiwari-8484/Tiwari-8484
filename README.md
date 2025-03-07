@@ -63,9 +63,11 @@
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=tiwari-8484&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
+
 <div align="right">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwari-8484&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.com/?user=tiwari-8484&theme=radical" alt="GitHub Streak" />
 </div>
+
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwari-8484&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
